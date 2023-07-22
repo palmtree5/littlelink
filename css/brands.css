@@ -265,7 +265,11 @@ button:hover,
 .button.button-dev-to:focus {
   filter: brightness(90%);
 }
-
+/* Bokoblin */
+.button.button-bokoblin {
+  color: #ffffff;
+  background-color: #ff0000;
+}
 /* Discord */
 .button.button-discord {
   color: #ffffff;
